@@ -1,0 +1,20 @@
+POO
+
+dois paradigmas
+-imperativo : como vai resolver os problemas
+-declarativo : o que você vai fazer?
+
+Pilares 
+- Herança : Objetos filhos que herdam dos pais
+
+- Polimorfismo : podem herdar a mesma classe pai mas se comportam
+de forma diferente quando invocados
+
+- Encapsulamento : cada classe tem propriedades individuais
+
+- Abstração : Processo mental que 
+consiste....simplificar sua avaliação/ classificação 
+ou permitir comunicação do mesmo
+
+Prototipos
+Esqueletos de todos objetos
